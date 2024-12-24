@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Cesar Pinardi</h1>
 <h3 align="center">An IT Technician and Computer Engineer!</h3>
 
-- 🔭 I’m currently working as **Systems Analyst**
+- 🔭 I’m currently working as **Full Stack Developer, but with focus on Data Analysis**
 
 - 📫 **cesar.pinardi@gmail.com**
 
